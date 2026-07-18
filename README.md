@@ -33,20 +33,24 @@ My long-term goal is to grow into Cloud Engineering, Cloud Security, DevOps, Pla
 - Azure Monitor, Log Analytics, alerts, diagnostics, and incident investigation
 - Cost awareness, resource governance, tagging, and cleanup
 
-### Automation and Engineering Tools
+
+### Current Hands-On Tools
 
 - Azure CLI
 - PowerShell
 - Bash
 - Git and GitHub
-- Bicep
 - Python
+
+### Currently Developing
+
+- Bicep
 - GitHub Actions
-- Terraform — planned after establishing a solid Bicep foundation
+- Terraform — planned after Bicep
 
 ## 🚀 Featured Project
 
-### [Azure CLI Journey Labs](https://github.com/DavidGonzalezCloud/azure-cli-journey)
+### [Azure CLI Labs](https://github.com/DavidGonzalezCloud/azure-cli-labs)
 
 A collection of hands-on Azure infrastructure automation laboratories developed with Azure CLI and Bash.
 
